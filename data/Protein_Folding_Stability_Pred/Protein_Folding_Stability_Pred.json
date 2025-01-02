@@ -1,0 +1,9 @@
+{
+    "dataset": "shenmaa/Protein_Folding_Stability_Pred",
+    "pdb_type": "",
+    "num_labels": 1,
+    "problem_type": "regression",
+    "metrics": "spearman_corr",
+    "monitor": "spearman_corr",
+    "normalize": "min_max"
+}

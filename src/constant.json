@@ -52,6 +52,7 @@
         "MetalIonBinding_ESMFold": "data/MetalIonBinding/MetalIonBinding_ESMFold_HF",
         "Thermostability_AlphaFold2": "data/Thermostability/Thermostability_AlphaFold2_HF.json",
         "Thermostability_ESMFold": "data/Thermostability/Thermostability_ESMFold_HF.json",
-        "PaCRISPR": "data/PaCRISPR/PaCRISPR.json"
+        "PaCRISPR": "data/PaCRISPR/PaCRISPR.json",
+        "Protein_Folding_Stability_Pred": "data/Protein_Folding_Stability_Pred/Protein_Folding_Stability_Pred.json"
     }
 }
