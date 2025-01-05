@@ -53,6 +53,7 @@
         "Thermostability_AlphaFold2": "data/Thermostability/Thermostability_AlphaFold2_HF.json",
         "Thermostability_ESMFold": "data/Thermostability/Thermostability_ESMFold_HF.json",
         "PaCRISPR": "data/PaCRISPR/PaCRISPR.json",
-        "Protein_Folding_Stability_Pred": "data/Protein_Folding_Stability_Pred/Protein_Folding_Stability_Pred.json"
+        "Protein_Folding_Stability_Pred": "data/Protein_Folding_Stability_Pred/Protein_Folding_Stability_Pred.json",
+        "fluorescence": "data/fluorescence/fluorescence.json"
     }
 }

@@ -1,0 +1,9 @@
+{
+    "dataset": "shenmaa/fluorescence",
+    "pdb_type": "",
+    "num_labels": 1,
+    "problem_type": "regression",
+    "metrics": "spearman",
+    "monitor": "spearman",
+    "normalize": "min_max"
+}
