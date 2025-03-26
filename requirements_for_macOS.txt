@@ -1,7 +1,7 @@
 accelerate==1.1.1
 Bio==1.7.1
 biopython==1.85
-bitsandbytes==0.45.3
+bitsandbytes==0.42.2
 biotite==0.33.0
 datasets==3.1.0
 esm==3.0.3
